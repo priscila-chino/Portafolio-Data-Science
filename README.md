@@ -1,11 +1,18 @@
-# Portafolio de Ciencia de Datos - Priscila Chino Gutierrez
+# Portafolio de Ciencia de Datos & IA - Priscila Chino
 
-Este repositorio contiene proyectos destacados desarrollados durante mi primer año de formación en la Tecnicatura Superior en Ciencia de Datos e IA.
+Selección de proyectos técnicos desarrollados durante la Tecnicatura Superior en Ciencia de Datos e IA.
 
-## Proyectos Incluidos:
-1. **Análisis de Índice de Datos:** Procesamiento y limpieza de datos para identificar tendencias.
-2. **Sistema Experto:** Implementación de lógica basada en reglas para la toma de decisiones.
-3. **Red Neuronal Convolucional (CNN):** Modelo de aprendizaje profundo entrenado para clasificación.
+## 1. Análisis Exploratorio de Datos (EDA) - Gastos de Consorcio
+* **Herramientas:** Python, Pandas, Matplotlib, Seaborn.
+* **Hitos técnicos:** Limpieza de datos (Data Wrangling), detección de valores atípicos (outliers), visualización de tendencias de gastos y análisis de correlación entre categorías.
+
+## 2. Sistema Experto - Asistente de Decisión de Cobranza
+* **Herramientas:** Lógica booleana, Estructuras de control de flujo (If/Else), Validación de reglas de negocio.
+* **Hitos técnicos:** Implementación de un motor de inferencia para automatizar la gestión de deudas en consorcios según estados de pago y antigüedad de mora.
+
+## 3. Red Neuronal Convolucional (CNN) - Entrenada
+* **Herramientas:** TensorFlow/Keras, NumPy, Preprocesamiento de imágenes.
+* **Hitos técnicos:** Configuración de capas convolucionales y de pooling, entrenamiento de modelo para reconocimiento de patrones y evaluación de métricas de precisión (accuracy).
 
 ---
 *Contacto: linkedin.com/in/priscila-chino-8231603a8*
